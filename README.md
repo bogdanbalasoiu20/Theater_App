@@ -1,4 +1,4 @@
-Performance Center Management System (C++)
+#Performance Center Management System (C++)
 This application is designed to manage a performance center that hosts circus, opera, and theater shows. Using Object-Oriented Programming (OOP) in C++, the system allows users to add performances, register spectators, and provide personalized recommendations based on their preferences and requirements.
 
 Main Functionalities
