@@ -6,7 +6,6 @@ Main Functionalities
 1. Managing Performances
 Users can add new performances to the system.
 Each performance has a title, genre, duration, and ticket price.
-Performances can be modified or removed when needed.
 2. Managing Spectators
 Users can register spectators by entering their preferences (e.g., preferred genres, ticket budget, seating preferences).
 Each spectator will receive a list of recommended performances based on their preferences.
